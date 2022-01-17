@@ -7,3 +7,4 @@ Rencana membuat model Deep Learning
 - persiapan ujicoba training dan testing
 - Si A Menambahkan 
 - Si A Menambahkan ke 2
+
