@@ -1,0 +1,4 @@
+Rencana membuat model Deep Learning
+- merancang arsitektur
+- menentukan penggunaan parameter
+- persiapan ujicoba training dan testing
