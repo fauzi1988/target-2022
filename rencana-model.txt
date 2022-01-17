@@ -6,3 +6,4 @@ Rencana membuat model Deep Learning
 - menentukan penggunaan parameter
 - persiapan ujicoba training dan testing
 - Si A Menambahkan 
+- Si A Menambahkan ke 2
